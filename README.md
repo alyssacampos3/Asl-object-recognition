@@ -9,3 +9,4 @@ Personal Project Goal: To be able to incorporate computer vision to determine an
 Group Admin Members: Alyssa, Amy, David.
 
 Website URL for researching: 
+https://www.geeksforgeeks.org/introduction-convolution-neural-network/
