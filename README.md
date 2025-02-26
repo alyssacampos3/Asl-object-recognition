@@ -10,3 +10,5 @@ Group Admin Members: Alyssa, Amy, David.
 
 Website URL for researching: 
 https://www.geeksforgeeks.org/introduction-convolution-neural-network/
+
+https://www.kaggle.com/datasets/ayuraj/asl-dataset
